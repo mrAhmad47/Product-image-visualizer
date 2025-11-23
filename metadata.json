@@ -1,0 +1,5 @@
+{
+  "name": "Nano Marketing Studio",
+  "description": "A dark-themed, neon-styled marketing asset generator powered by Gemini 2.5 Flash Image. Upload a product photo and instantly visualize it on mugs, billboards, and apparel, or edit it with natural language prompts.",
+  "requestFramePermissions": []
+}
